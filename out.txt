@@ -1,0 +1,11 @@
+      fun: -1.0
+ hess_inv: array([[9.99999319e-01, 7.13936449e-10],
+       [7.13936449e-10, 1.00000000e+00]])
+      jac: array([0., 0.])
+  message: 'Optimization terminated successfully.'
+     nfev: 18
+      nit: 4
+     njev: 6
+   status: 0
+  success: True
+        x: array([-1.57079633e+00, -7.85809318e-09])
